@@ -54,7 +54,7 @@ These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN
 - The **age distribution** revealed younger employees dominating certain roles and older employees in more senior positions.
  ![age gap in occupations](age%20gap%20in%20occupations.png)
 - Identified the **top 5 earners** and roles contributing most to company payroll costs.
- ![5 top earning employee](top%20earning%20employee.png)
+ ![5 top earning employee](5%20top%20earning%20employee.png)
 
 
 ### Recommendations
