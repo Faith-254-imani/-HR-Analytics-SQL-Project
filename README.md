@@ -50,11 +50,11 @@ These steps were completed using SQL functions like *AVG()*, *SUM()*, *CASE WHEN
 ## Results and Insights  
 - Some departments showed significantly higher average salaries, indicating possible pay concentration.
 - Noticeable **gender pay gaps** existed in some roles, suggesting room for review and correction.
- ![Gender pay gap](images/Gender%20pay%20gap.png)
+ ![Gender pay gap](Gender%20pay%20gap.png)
 - The **age distribution** revealed younger employees dominating certain roles and older employees in more senior positions.
  ![age gap in occupations](age%20gap%20in%20occupations.png)
 - Identified the **top 5 earners** and roles contributing most to company payroll costs.
- ![5 top earning employee](images/5%20top%20earning%20employee.png)
+ ![5 top earning employee](top%20earning%20employee.png)
 
 
 ### Recommendations
